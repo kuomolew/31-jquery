@@ -1,0 +1,25 @@
+{
+  "name": "31-jquery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuomolew/31-jquery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuomolew/31-jquery/issues"
+  },
+  "homepage": "https://github.com/kuomolew/31-jquery#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-cssbeautify": "^2.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
